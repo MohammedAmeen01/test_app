@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17192" systemVersion="20B29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Demodata" representedClassName="Demodata" syncable="YES" codeGenerationType="class">
+        <attribute name="dob_db" optional="YES" attributeType="String"/>
+        <attribute name="gender_db" optional="YES" attributeType="String"/>
+        <attribute name="name_db" optional="YES" attributeType="String"/>
+        <attribute name="profilepic_db" optional="YES" attributeType="Binary"/>
+    </entity>
+    <entity name="Likedprofiles" representedClassName="Likedprofiles" syncable="YES" codeGenerationType="class">
+        <attribute name="likedAge" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="likedColor" optional="YES" attributeType="String"/>
+        <attribute name="likedEmail" optional="YES" attributeType="String"/>
+        <attribute name="likedGender" optional="YES" attributeType="String"/>
+        <attribute name="likedid" optional="YES" attributeType="String"/>
+        <attribute name="likedName" optional="YES" attributeType="String"/>
+        <attribute name="likedPhone" optional="YES" attributeType="String"/>
+        <attribute name="likedPicture" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Demodata" positionX="-63" positionY="-18" width="128" height="89"/>
+        <element name="Likedprofiles" positionX="-63" positionY="9" width="128" height="149"/>
+    </elements>
+</model>
