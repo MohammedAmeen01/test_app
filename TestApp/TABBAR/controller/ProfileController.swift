@@ -65,6 +65,7 @@ class ProfileController: UIViewController {
     @IBAction func tappedLogout(_ Sender : UIButton) {
         UserDefaults.standard.set(false, forKey: "isSignedUp")
         deleteAllData(entity: "Demodata")
+        deleteAllData(entity: "Likedprofiles")
         self.dismiss(animated: false, completion: nil)
     }
     

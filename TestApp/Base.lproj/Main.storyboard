@@ -753,26 +753,6 @@
             <point key="canvasLocation" x="957.60000000000002" y="74.212893553223395"/>
         </scene>
     </scenes>
-    <designables>
-        <designable name="6cS-4s-d3b">
-            <size key="intrinsicContentSize" width="80.5" height="19.5"/>
-        </designable>
-        <designable name="QUj-8g-UWO">
-            <size key="intrinsicContentSize" width="80.5" height="19.5"/>
-        </designable>
-        <designable name="cHb-c6-mum">
-            <size key="intrinsicContentSize" width="89" height="19.5"/>
-        </designable>
-        <designable name="ot7-hf-uBm">
-            <size key="intrinsicContentSize" width="78" height="19.5"/>
-        </designable>
-        <designable name="wYT-Qs-YdD">
-            <size key="intrinsicContentSize" width="89" height="19.5"/>
-        </designable>
-        <designable name="xEs-sg-dh4">
-            <size key="intrinsicContentSize" width="78" height="19.5"/>
-        </designable>
-    </designables>
     <resources>
         <image name="default_img" width="76" height="76.5"/>
         <image name="liked" width="32" height="32"/>
